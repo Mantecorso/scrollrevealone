@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.divi {
+    height: 600px;
+    width: 100%;
+}
+
+.uno1 {
+    background-color: red;
+}
+
+.uno2 {
+    background-color: gold;
+}
+
+.uno3 {
+    background-color: gray;
+}
+
+.uno4 {
+    background-color: blue;
+}
+
+.uno5 {
+    background-color: orange;
+}
+
+.uno6 {
+    background-color: palegoldenrod;
+}
+
+.uno7 {
+    background-color: aqua;
+}
+
